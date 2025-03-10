@@ -1,3 +1,7 @@
+# NOTICE
+
+This is a fork of [grease](https://github.com/phronmophobic/grease) so that I can save a clone to the original repository. The clone is for me to try to get my hands wet with Clojure as a first project.
+
 # Grease
 
 An example of building a clojure library for iOS with graalvm native-image.
